@@ -14,7 +14,9 @@
   margin: 10px;
 }
 
-table, th, td {
+table,
+th,
+td {
   width: 50%;
   border: 5px groove dodgerblue;
   border-collapse: collapse;
